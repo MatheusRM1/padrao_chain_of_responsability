@@ -1,6 +1,6 @@
 package org.chainOfResponsability;
 
-ppublic class TipoOcorrenciaAvaria implements TipoOcorrencia {
+public class TipoOcorrenciaAvaria implements TipoOcorrencia {
 
     private static TipoOcorrenciaAvaria tipoOcorrenciaAvaria = new TipoOcorrenciaAvaria();
 
